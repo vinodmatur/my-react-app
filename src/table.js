@@ -1,4 +1,4 @@
-
+import React, { Component }  from 'react';
 const Table = (props) => {
         const {characterData, removeCharacter} = props
         return (
